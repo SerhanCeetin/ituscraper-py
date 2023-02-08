@@ -7,9 +7,9 @@
 ituscraper-py is a Python library for scraping data from Istanbul Technical University websites. It is currently under development and is not ready for use.
 ## TODO
 #### Student Information System
-- [ ] Course schedules
-  - [ ] Undergraduate
-  - [ ] Graduate
+- [X] Course schedules
+  - [X] Undergraduate
+  - [X] Graduate
 - [ ] Course plans
   - [ ] Undergraduate
   - [ ] Graduate
